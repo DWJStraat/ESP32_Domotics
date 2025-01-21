@@ -1,0 +1,7 @@
+{
+  "ip": "Insert IP here",
+  "token": "Insert your telegram bot token",
+  "pin": 26,
+  "admin_telegram": "Insert your telegram ID",
+  "room": "A_unique_identifier"
+}
